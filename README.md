@@ -1,4 +1,4 @@
-In this project, let's fix the **Nxt Trendz Protected Route** by applying the concepts we have learned till now.
+In this project, let's fix the **Nxt Trendz Protected Route** .
 
 ### Refer to the image below:
 
